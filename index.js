@@ -1,6 +1,7 @@
 {
     "capstone": {
-        "liveLink": "<github page link>",
+        
+        "liveLink": "https://d-chvz.github.io/webportfolio/",
 
         "name": "Princess Diane Chavez",
         
